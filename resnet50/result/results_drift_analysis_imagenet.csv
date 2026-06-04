@@ -1,0 +1,3 @@
+Dataset,Drift_Days,Baseline_Acc,Accuracy,Accuracy_Drop,Drift_Magnitude
+ImageNet,0,10.72,10.879999999999999,-0.15999999999999837,0.0
+ImageNet,30,10.72,10.8,-0.08000000000000007,0.2738612787525831
