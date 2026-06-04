@@ -1,5 +1,19 @@
 # Research-Grade AIMC Simulation Pipeline
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.8+-3776ab?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c?logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-f37726?logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.20+-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1.3+-150458?logo=pandas&logoColor=white)
+![CrossSim](https://img.shields.io/badge/CrossSim-Sandia-ee3124)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+</div>
+
+---
+
 A modular, production-ready Jupyter notebook for evaluating neural networks on analog in-memory computing (AIMC) hardware using CrossSim RRAM simulation.
 
 **Current Implementation**: InceptionV3 on CIFAR-10 with RRAM crossbars  
@@ -512,7 +526,18 @@ If you use this pipeline in your research, please cite:
 
 ## License
 
-MIT License - See LICENSE file for details
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+### Summary
+You are free to:
+- ✅ Use this code for commercial and private purposes
+- ✅ Modify and distribute the code
+- ✅ Sublicense the code
+- ✅ Use it without restriction
+
+Conditions:
+- 📋 Include a copy of the license and copyright notice
+- 📋 State significant changes made to the code
 
 ---
 
