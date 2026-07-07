@@ -1,0 +1,3 @@
+Dataset,Device_Model,Baseline_Acc,Accuracy,Accuracy_Drop
+CIFAR-10,IdealDevice,92.72,92.22,0.5
+CIFAR-10,RRAMMilo,92.72,90.97,1.75
