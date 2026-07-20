@@ -1,0 +1,2 @@
+Dataset,Crossbar_size,ADC_bits,DAC_bits,Energy_per_inference_J,Latency_ns,Throughput_ops_per_s,TOPS_per_W
+CIFAR-10,512,8,8,1.479395808e-08,14688.0,3196540305010.893,3173.645872599363

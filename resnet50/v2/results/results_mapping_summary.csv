@@ -1,0 +1,5 @@
+Crossbar_Size,Total_Arrays,Total_ADC_Conversions,Total_Cycles,Max_Cycles_Single_Layer
+512,604,2336,1728,32
+256,1592,3648,1728,32
+128,5856,6784,1728,32
+64,23036,13312,1728,32

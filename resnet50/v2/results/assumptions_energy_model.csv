@@ -1,0 +1,14 @@
+Parameter,Value,Status
+E_MAC_ARRAY_J,1e-16,PLACEHOLDER - needs circuit-level validation
+E_ADC_BASE_J,5e-14,PLACEHOLDER - needs circuit-level validation
+E_ADC_PER_BIT_J,5e-15,PLACEHOLDER - needs circuit-level validation
+E_DAC_BASE_J,1e-14,PLACEHOLDER - needs circuit-level validation
+E_DAC_PER_BIT_J,1e-15,PLACEHOLDER - needs circuit-level validation
+E_ACCUM_PER_OP_J,5e-16,PLACEHOLDER - needs circuit-level validation
+E_CONTROL_FRAC,0.05,PLACEHOLDER - needs circuit-level validation
+E_BUFFER_FRAC,0.05,PLACEHOLDER - needs circuit-level validation
+E_INTERCONNECT_FRAC,0.05,PLACEHOLDER - needs circuit-level validation
+t_DAC_ns,1.0,PLACEHOLDER - needs circuit-level validation
+t_array_ns,2.0,PLACEHOLDER - needs circuit-level validation
+t_ADC_ns,5.0,PLACEHOLDER - needs circuit-level validation
+t_digital_ns,0.5,PLACEHOLDER - needs circuit-level validation
